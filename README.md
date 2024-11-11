@@ -1,4 +1,4 @@
-# EX.-NO-3-IMPLEMENTATION-OF-DIGITAL-SIGNATURE-STANDARD
+# EX.-NO-8-IMPLEMENTATION OF DIGITAL SIGNATURE STANDARD
 ## AIM:
 To write a C program to implement the signature scheme named digital signature standard.
 ## ALGORITHM:
